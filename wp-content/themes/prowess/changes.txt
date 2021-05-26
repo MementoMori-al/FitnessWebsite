@@ -1,0 +1,99 @@
+1.8.1
+- Fixed Instagram Feed for bussiness accounts
+- Updated Prowess Instagram Feed to 2.1 version
+- Updated Revolution Slider plugin to 6.2.23
+- Updated WPBakery Visual Composer plugin to 6.4.1
+
+1.8
+- Updated Prowess Instagram Feed to 2.0 version
+
+1.7
+- Added WordPress 5.5 compatibility
+- Added 'dark' skin option for 'Events List' shortcode
+- Updated Prowess Core plugin to 1.2.1
+- Updated Timetable Responsive Schedule plugin to 6.2
+- Updated Revolution Slider plugin to 6.2.22
+- Updated WPBakery Visual Composer plugin to 6.3.0
+- Removed unnecessary options for Logo Area, since there is no header type with that area
+
+1.6
+- Added Prowess Dashboard
+- Added WooCommerce 3.8.1 compatibility
+- Updated WPBakery Page Builder to version 6.1
+- Updated Revolution Slider 6.1.5
+- Updated Timetable Responsive Schedule to 5.9
+- Updated Prowess Core on 1.2
+- Updated Prowess BMI Calculator to version 1.2.2
+- Updated Prowess Child theme to 1.0.1
+- Updated Prowess Instagram Feed plugin to 1.0.3
+- Updated Prowess Twitter Feed plugin to 1.0.3
+- Fixed Logo Area Options not applying issue
+- Fixed a fatal error when BMI plugin is not activated and Tabs element is used
+- Fixed OG description rendering for pages
+- Fixed social share - Twitter issue
+- Improved import functionality
+- Improved Welcome Page
+- Improved Prowess BMI Calculator translation
+- Changed Prowess Options Position
+- Removed unused file instagram-redirect.php from Prowess Instagram Feed plugin
+- Removed unused file twitter-redirect.php from Prowess Twitter Feed plugin
+
+1.5
+- Added WooCommerce 3.6.5 compatibility
+- Updated WPBakery Page Builder to version 6.0.5
+- Updated Revolution Slider 6.0.9
+- Fixed Product List - Simple featured product functionality
+- Fixed back navigation with Page Transition
+- Fixed Parallax with Zoom Out effect on title image
+- Fixed Full Screen Menu scroll
+
+1.4.2
+- Updated Nonce on ajax functions
+- Updated Visual Composer to version 6.0.1
+- Updated Select Core Plugin 1.1.2
+- Improved theme functionality
+- Fixed admin js to use strict operating context
+
+1.4.1
+- Added WooCommerce 3.6 compatibility
+- Updated Core plugin to 1.1.1
+- Improved import functionality
+- Improved theme security
+
+1.4
+- Updated Prowess Core Plugin 1.1
+- Updated Prowess Instagram Feed Plugin to version 1.0.2
+- Updated Prowess Twitter Feed Plugin to version 1.0.2
+- Updated Prowess BMI Calculator to version 1.2.1
+- Updated Revolution Slider 5.4.8.3
+- Updated WooCommerce to 3.5.7
+- Updated WPBakery to 5.7
+- Updated pot file
+- Improved framework files
+
+1.3
+- Added compatibility with WordPress 5
+- Added WooCommerce 3.5.4 compatibility
+- Added GDPR compliance for comments on blog posts
+- Updated WPBakery Page Builder to 5.6
+- Updated Revolution Slider to 5.4.8.2
+- Updated Envato Market to 2.0.1
+- Updated Timetable Responsive Schedule to 5.6
+
+1.2
+- Added WooCommerce 3.4.4 compatibility
+- Added Envato Market plugin as required
+- Updated Prowess BMI Calculator to version 1.2
+- Updated Visual Composer to 5.5.2
+- Updated Revolution Slider to 5.4.8
+- Updated Prowess Core to 1.0.1
+- Updated Prowess Instagram Feed to 1.0.1
+- Updated Prowess Twitter Feed to 1.0.1
+- Fixed http to https
+- Fixed labels and pot files in theme and plugins
+- Improved Prowess BMI Calculator translation
+- Improved menu import functionality
+
+1.1
+- Added select 2 script for Prowess BMI calculator
+- Updated Prowess BMI Calculator to version 1.1
